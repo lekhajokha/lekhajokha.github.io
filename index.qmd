@@ -11,9 +11,6 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=vuhO9dAAAAAJ&view_op=list_works&sortby=pubdate
 ---
 
-::: {#about-block}
-:::
-
 # Hi!
 
 Thank you for visiting my website!
