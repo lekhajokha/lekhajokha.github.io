@@ -10,12 +10,13 @@ website:
     right:
       - href: https://lekhajokha.github.io
         text: Home
+      - href: https://lekhajokha.github.io
+        text: News
       - href: https://lekhajokha.github.io/blog/
         text: Blog
       - href: https://lekhajokha.github.io
         text: CV
-      - text: News etc. 
-        href: https://lekhajokha.github.io
+
       
       
 format:
