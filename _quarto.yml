@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - href: index.qmd
+      - href: https://lekhajokha.github.io/blog/
         text: Blog
 
 format:
