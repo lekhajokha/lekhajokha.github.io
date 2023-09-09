@@ -14,15 +14,16 @@ website:
         text: Blog
       - href: https://lekhajokha.github.io
         text: CV
-      - href: https://lekhajokha.github.io
-        text: CV
+      - text: News etc. 
+        href: https://lekhajokha.github.io
+      
       
 format:
   html:
     theme: yeti
     css: styles.css
     toc: true
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
 
 editor: visual
