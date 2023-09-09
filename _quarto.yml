@@ -14,7 +14,9 @@ website:
         text: Blog
       - href: https://lekhajokha.github.io
         text: CV
-
+      - href: https://lekhajokha.github.io
+        text: CV
+      
 format:
   html:
     theme: yeti
