@@ -3,19 +3,18 @@ about:
   template: trestles
   id: about-block
   image: "photu.jpg"
+  image-shape: rounded
   links:
     - icon: envelope
       text: Email
       href: "mailto:aashish.gupta@sociology.ox.ac.uk"  
-    - text: fa brands google-scholar 
+    - text: google scholar
       href: https://scholar.google.com/citations?hl=en&user=vuhO9dAAAAAJ&view_op=list_works&sortby=pubdate
 ---
 
 Hi!
 
 Thank you for visiting my website!
-
-{{< ai envelope >}}
 
 I have a PhD in Demography and Sociology from the University of Pennsylvania.
 
