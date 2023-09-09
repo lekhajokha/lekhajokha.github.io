@@ -1,13 +1,13 @@
 ---
 about:
-  template: jolla
+  template: trestles
   id: about-block
-  image: ""
+  image: "photu.jpg"
   links:
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
-    - icon: envelope
+      href: "mailto:aashish.gupta@sociology.ox.ac.uk"  
+    - text: fa brands google-scholar 
       href: https://scholar.google.com/citations?hl=en&user=vuhO9dAAAAAJ&view_op=list_works&sortby=pubdate
 ---
 
