@@ -1,17 +1,7 @@
 ---
 title: ""
-links:
-  - label: Twitter
-    url: "https://twitter.com"
-  - label: GitHub
-    url: "https://github.com"
-  - label: CV
-    url: ""
-  - label: Email
-    url: ""
-site: distill::distill_website
-output:
-  postcards::trestles
 ---
 
-Hi! I am Aashish. 
+Hi! I am Aashish.
+
+<!--# should we have a sidebar: https://quarto.org/docs/websites/website-navigation.html -->
