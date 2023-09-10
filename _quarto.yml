@@ -10,11 +10,11 @@ website:
     right:
       - href: https://lekhajokha.github.io
         text: Home
-      - href: https://lekhajokha.github.io/news
+      - href: https://lekhajokha.github.io/updates
         text: Updates
       - href: https://lekhajokha.github.io/blog/
         text: Blog
-      - href: https://lekhajokha.github.io
+      - href: ag_cv.pdf
         text: CV
 
       
