@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Updates"
 ---
 
 -   August 2023: The [call for papers for the 2024 annual meeting of the Population Association of America](https://higherlogicdownload.s3.amazonaws.com/POPULATIONASSOCIATION/b4300158-63a2-4507-94be-1bfed95d94b7/UploadedImages/PAA_2024/Call_for_Papers_PAA_2024.pdf) is out! I am organizing a session on "Environmental influences on mortality and morbidity in low- and middle-income countries". Please consider submitting!
