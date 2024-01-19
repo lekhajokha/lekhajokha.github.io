@@ -16,6 +16,8 @@ Hi! Thank you for visiting my website!
 
 I am a sociologist and a demographer, and currently a Marie Skłodowska-Curie Fellow at the University of Oxford. Before this, I was a David E. Bell fellow at Harvard University's Center for Population and Development Studies. I have a PhD in Demography and Sociology from the University of Pennsylvania, and an MA in Development Studies from the Indian Institute of Technology Madras.
 
-Broadly, my research examines interrelations between health, environment, and social inequality. A related interest is improving the measurement of demographic and development outcomes in low- and middle-income countries. My research on these topics has appeared in leading journals such as *Population and Development Review*, *Proceedings of the National Academy of Sciences*, and *World Development*. I was awarded a Civil Registration and Vital Statistics Fellowship by the International Union for the Scientific Study of Population, and the Dorothy Thomas Award for best graduate student paper by the Population Association of America in 2021.
+Broadly, my research focuses on methodological innovations to understand interrelations between health, environment, and social inequality. My research on these topics has appeared in leading journals such as *Population and Development Review*, *Proceedings of the National Academy of Sciences*, and *World Development*.
+
+I was awarded a Civil Registration and Vital Statistics Fellowship by the International Union for the Scientific Study of Population, and the Dorothy Thomas Award for best graduate student paper by the Population Association of America in 2021.
 
 <!--# should we have a sidebar: https://quarto.org/docs/websites/website-navigation.html -->
