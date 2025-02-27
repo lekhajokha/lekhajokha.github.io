@@ -7,9 +7,11 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:aashish.gupta@sociology.ox.ac.uk"  
+      href: "mailto:aashish.gupta@nyu.edu"  
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?hl=en&user=vuhO9dAAAAAJ&view_op=list_works&sortby=pubdate
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/aashishg.bsky.social
 ---
 
 Hi! Thank you for visiting my website!
