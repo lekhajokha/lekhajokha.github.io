@@ -1,0 +1,18 @@
+---
+title: "MSCA IF: MU-MED"
+about:
+  template: trestles
+  id: about-block
+  image: "msca.png"
+  image-shape: rounded
+---
+
+Records of births, deaths, and people alive are some of the most important statistics that are collected and analysed by states and societies. In many developing countries, however, these records are deficient. These limitations constrain public policy, health responses, and scientific knowledge. The research project, titled "Measuring and Understanding Mortality, its Exposures, and its Determinants in developing countries" aims to improve the measurement and understanding of population health in low and middle-income countries. It focused on understandin data quality and improving scientific understanding of mortality levels and their determinants.
+
+Research outputs supported by project include:
+
+-   Gupta, Aashish, Payal Hathi, Murad Banaji, Prankur Gupta, Ridhi Kashyap, Vipul Paikra, Kanika Sharma, Anmol Somanchi, Nikkil Sudharsanan, and Sangita Vyas. "Large and unequal life expectancy declines during the COVID-19 pandemic in India in 2020." *Science Advances* 10, no. 29 (2024): eadk2070.
+
+-   Polizzi, Antonino, Luyin Zhang, Sergey Timonin, Aashish Gupta, Jennifer Beam Dowd, David A. Leon, and José Manuel Aburto. "Indirect effects of the COVID-19 pandemic: A cause-of-death analysis of life expectancy changes in 24 countries, 2015 to 2022." *PNAS nexus* 4, no. 1 (2025): pgae508.
+
+-   Hossain, Babul, Megan N. Reed, Aashish Gupta, Srinivas Goli, and K. S. James. "Widow and Widower Mortality in India." *Demography* (forthcoming).
